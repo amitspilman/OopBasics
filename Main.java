@@ -10,8 +10,8 @@ public class Main {
 
 
 		Person p1 = new Person();
-		Person p2 = new Person(c2,"Amit","Spilman","Elkana",111,30);
-		Person p3 = new Person(c3,"Dor","Spilman","Eilat",222,22);
+		Person p2 = new Person(c2,"Amit","Levi","Elkana",111,30);
+		Person p3 = new Person(c3,"Dor","Choen","Eilat",222,22);
 		Person p4 = new Person(c1, p2);
 
 		System.out.println("person 1" +"\n"+ p1.toString() +"\n");
